@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathe-Determinante", "Mathe-Determinante\Mathe-Determinante.csproj", "{8F3591F8-6B9B-4B78-B37D-2DA0F6755065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F3591F8-6B9B-4B78-B37D-2DA0F6755065}.Debug|x86.ActiveCfg = Debug|x86
+		{8F3591F8-6B9B-4B78-B37D-2DA0F6755065}.Debug|x86.Build.0 = Debug|x86
+		{8F3591F8-6B9B-4B78-B37D-2DA0F6755065}.Release|x86.ActiveCfg = Release|x86
+		{8F3591F8-6B9B-4B78-B37D-2DA0F6755065}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
